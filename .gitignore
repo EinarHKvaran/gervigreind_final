@@ -1,3 +1,4 @@
+gtzan_model.pth
 data/fma_small/checksums
 data/fma_small/README.txt
 data/fma_small/000/000002.mp3
@@ -9001,3 +9002,4 @@ data/music/rock/rock.00096.wav
 data/music/rock/rock.00097.wav
 data/music/rock/rock.00098.wav
 data/music/rock/rock.00099.wav
+gtzan_model.pth
